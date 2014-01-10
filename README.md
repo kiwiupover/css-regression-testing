@@ -6,7 +6,7 @@
 
 ###Clone the Repo
 ```shell
-git clone THIS REPO
+git clone git@github.com:kiwiupover/css-regression-testing.git
 ```
 
 ### Install Grunt and Bower
