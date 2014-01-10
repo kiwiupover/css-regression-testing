@@ -13,6 +13,7 @@ git clone git@github.com:kiwiupover/css-regression-testing.git
 ```shell
 npm install -g grunt
 npm install -g bower
+npm install -g phantomjs
 ```
 
 ### Install Node and Bower modules
